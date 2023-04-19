@@ -1,0 +1,16 @@
+Una función y un subproceso son dos conceptos diferentes en programación que se utilizan en situaciones diferentes.
+
+Una función es un bloque de código que se utiliza para realizar una tarea específica y devolver un valor. Las funciones son útiles para realizar cálculos o procesamientos que se utilizarán varias veces en diferentes partes del programa. Una vez que se define una función, se puede llamar varias veces en diferentes partes del programa.
+
+Un subproceso, por otro lado, es un bloque de código que se utiliza para realizar una tarea específica, pero no devuelve ningún valor. Los subprocesos son útiles para realizar tareas que se deben ejecutar varias veces en diferentes partes del programa, pero no se utilizan para realizar cálculos o procesamientos. Una vez que se define un subproceso, se puede llamar varias veces en diferentes partes del programa.
+
+En resumen, las funciones se utilizan para realizar cálculos o procesamientos y devolver un valor, mientras que los subprocesos se utilizan para realizar tareas que se deben ejecutar varias veces en diferentes partes del programa, pero no devuelve ningún valor.
+ejemplos de cuándo sería útil utilizar una función o un subproceso:
+
+Función: Calcular el área de un círculo. Se podría crear una función llamada "calcularAreaCirculo" que toma como parámetro el radio del círculo y devuelve el área del mismo. Esta función se podría utilizar en varias partes del programa para calcular el área de diferentes círculos.
+
+Subproceso: Imprimir una lista de nombres. Se podría crear un subproceso llamado "imprimirListaNombres" que toma como parámetro una lista de nombres y los imprime en pantalla. Este subproceso se podría llamar varias veces en diferentes partes del programa para imprimir diferentes listas de nombres.
+
+Función: Calcular el factorial de un número. Se podría crear una función llamada "calcularFactorial" que toma como parámetro un número y devuelve su factorial. Esta función se podría utilizar en varias partes del programa para calcular el factorial de diferentes números.
+
+Subproceso: Enviar un correo electrónico. Se podría crear un subproceso llamado "enviarCorreo" que toma como parámetros el destinatario, el asunto y el cuerpo del correo y lo envía. Este subproceso se podría llamar varias veces en diferentes partes del programa para enviar diferentes correos electrónicos.
