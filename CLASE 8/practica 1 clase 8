@@ -1,0 +1,18 @@
+///Vamos a hacer nuevamente el ejercicio de la vocal misteriosa, pero esta vez con una estructura
+///Hacer-Mientras. ¿Puedes notar cuál es la diferencia entre ambas estructuras?
+
+
+Algoritmo sin_titulo
+	definir letra Como Caracter
+	
+	hacer 
+		escribir "ingrese una vocal"
+		leer letra
+		
+	Mientras Que letra <> "i"
+	
+	escribir "ingresaste la vocal secreta"
+	
+	
+	
+FinAlgoritmo
